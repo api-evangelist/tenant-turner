@@ -64,5 +64,29 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tenant Turner is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://tenantturner.com/
+Tenant Turner provides AI‑enhanced leasing automation software for property managers, landlords, and leasing agencies. Its platform streamlines lead capture, scheduling, showings, and lease signing, integrating with major property‑management systems and thousands of apps via Zapier. The solution aims to reduce no‑shows, accelerate lease closures, and improve tenant experience through virtual agents and smart access features.
+
+**Areas:** Leasing · Property-Management · Automation · AI · SaaS
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://tenantturner.com/)
+- [Documentation](https://help.tenantturner.com/)
+- [Getting started](https://tenantturner.com/schedule-a-demo/)
+- [Pricing](https://tenantturner.com/plans-pricing/)
+- [Sign up](https://app.tenantturner.com/signin)
+- [Support](https://help.tenantturner.com/)
+- [Changelog](https://tenantturner.com/release-notes/)
+- [Blog](https://tenantturner.com/blog/)
+- [Terms of service](https://tenantturner.com/terms/)
+- [Privacy policy](https://tenantturner.com/privacy/)
+- [GitHub](https://github.com/TenantTurner)
+- [Status](https://status.tenantturner.com/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/tenant-turner/](https://apis.io/providers/tenant-turner/).
